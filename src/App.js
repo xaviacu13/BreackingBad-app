@@ -14,7 +14,7 @@ const Boton = styled.button`
  background-size: 300px;
  font-family: Arial, Helvetica, sans-serif;
  color: #FFFFFF;
- margin-top: 3rem;
+ margin-top: 1rem;
  padding: 1rem 3rem;
  font-size: 2rem;
  border: 2px solid black;
